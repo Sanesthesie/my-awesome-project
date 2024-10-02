@@ -1,2 +1,1 @@
-# my-awesome-project
-Repo créé dans le cadre de la quête Git/GitHub3 pour la Wild
+This awesome project is created to experiment git notions like clone, push and pull.
